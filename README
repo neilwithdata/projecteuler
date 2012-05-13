@@ -1,8 +1,4 @@
-Solutions to the Project Euler (http://projecteuler.net/) problems using Lua. Java versions to be added soon.
-
-File naming convention:
-Prob[X] - Solution to problem X which can be found at http://projecteuler.net/problem=X
-Prob[X]_opt[N] - Solution to problem X. N'th attempt at optimization
+Solutions to the Project Euler (http://projecteuler.net/) problems using whatever language was taking my fancy at the time (Lua, Java, C#, etc).
 
 Neil Sainsbury
 Website: http://www.earthtoneil.com
