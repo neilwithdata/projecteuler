@@ -8,13 +8,9 @@ def nways(val, ic):
 
     max_n = val / coins[ic]
     for i in range(max_n + 1):
-        rem = val - (i * coins[ic])
-        
-        if rem == 0:
-            total_ways += 1
-        else:
-            total_ways += nways(rem, ic + 1)
-    
+        rem = val - (i * coins[ic])        
+        total_ways += 1 if (rem == 0) else nways(rem, ic + 1)
+
     return total_ways
 
 print nways(200, 0)
