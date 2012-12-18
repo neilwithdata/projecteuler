@@ -3,5 +3,7 @@ Solutions to the Project Euler (http://projecteuler.net/) problems using whateve
 ![Project Euler Badge](http://projecteuler.net/profile/Zainny.png)
 
 Neil Sainsbury
+
 Website: http://www.earthtoneil.com
+
 Twitter: @eZainny
